@@ -37,4 +37,6 @@ References:
 
 This code is soley inspried by the algorithm I did in detecting cycles which is also a DFS. However I had to change it where the function returns the path rather than saying if cycle exists or not.
 
+I took ChatGPT's help to come up with the last 2 test cases. However the idea of using Adjacent matrix came from my detecting cycles exercise.
+
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
